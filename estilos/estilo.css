@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital,wght@1,300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital,wght@1,300&family=Oswald&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital,wght@1,300&family=Oswald:wght@700&display=swap");
+.navbar-brand {
+  color: #F5F0BB;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.jumbotron {
+  background-image: url(/multimedia/chaleco.jpg);
+  background-size: cover;
+  color: #333;
+  margin: 0;
+  font-family: "Montserrat Alternates", sans-serif;
+}
+
+h2 {
+  background-color: #F5F0BB;
+  text-align: center;
+  color: #333;
+  padding: 10px;
+  margin: 0;
+  font-family: "Montserrat Alternates", sans-serif;
+}
+
+.ad {
+  background-image: url(/multimedia/tejido.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 400px;
+}
+
+.ai {
+  padding: 20px;
+  text-align: center;
+  background-color: #F5F0BB;
+  color: #333;
+  font-family: "Montserrat Alternates", sans-serif;
+  font-family: "Oswald", sans-serif;
+}
+
+.inicia {
+  background-color: #F5F0BB;
+  text-align: center;
+  margin: 0;
+}
+
+.id {
+  background-image: url(/multimedia/cardigan.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 250px;
+}
+
+.ii {
+  background-color: #F5F0BB;
+  text-align: center;
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.btn-primary {
+  background-color: #333;
+  color: #F5F0BB;
+}
+
+.btn-primary:hover {
+  background-color: gray;
+}
+
+footer {
+  background-color: #F5F0BB;
+  text-align: center;
+  font-family: "Montserrat Alternates", sans-serif;
+}/*# sourceMappingURL=estilo.css.map */
